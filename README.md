@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aneek Sarkar</h1>
 <h3 align="center">A passionate statistical data analyst and a professional photographer too.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gi">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ad1007&label=Profile%20views&color=0e75b6&style=flat" alt="ad1007" /> </p>
 
