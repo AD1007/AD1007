@@ -9,13 +9,11 @@
 
 - Hi, I had worked on [Stock market analysis using programming language](https://drive.google.com/file/d/1R_4l-QgB9p0PfskGo3HLoPhSUjZLrl_Q/view?usp=drive_link)
 
-- 🌱 I’m currently learning **Data visualization, python**
+- 🌱 I’m currently learning **Data visualization, python,DSA*
+- 
+- 💬 Ask me about **R, Data analysis, Statistics, C/C++, Python Data Visualization**
 
-- 📝 I regularly write articles on [http://adphotography1007.blogspot.com/](http://adphotography1007.blogspot.com/)
-
-- 💬 Ask me about **R, Data analysis, Statistics, C/C++**
-
-- 📫 How to reach me **abirchatterjee206@gmail.com**
+- 📫 How to reach me **aneeksarkarofficial@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1L6ooOpzhJyTD2mwC_bo9a5ZRL4CAW-Li/view?usp=drive_link](https://drive.google.com/file/d/1L6ooOpzhJyTD2mwC_bo9a5ZRL4CAW-Li/view?usp=drive_link)
 
